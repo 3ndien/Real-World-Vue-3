@@ -39,7 +39,7 @@ export default {
                 })
             }
             else {
-                this.$router.push({ name: 'NetworError' })
+                this.$router.push({ name: 'NetworkError' })
             }
         })
    }
